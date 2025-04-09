@@ -13,6 +13,8 @@
         <module>example2</module>
         <module>example3</module>
         <module>example4</module>
+        <module>example5</module>
+        <module>example6</module>
     </modules>
 
     <properties>
@@ -27,7 +29,11 @@
             <artifactId>spring-context</artifactId>
             <version>6.2.2</version>
         </dependency>
-
+        <dependency>
+            <groupId>jakarta.annotation</groupId>
+            <artifactId>jakarta.annotation-api</artifactId>
+            <version>3.0.0</version>
+        </dependency>
     </dependencies>
 
 </project>
