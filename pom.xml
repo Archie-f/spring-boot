@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>example1</module>
+        <module>example01-adding-new-beans-to-spring-context</module>
         <module>example2</module>
         <module>example3</module>
         <module>example4</module>
