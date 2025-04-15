@@ -12,7 +12,4 @@ public class Vehicle {
         this.name = name;
     }
 
-    public void sayHello(){
-        System.out.println("Hello from the Vehicle Bean created by using @Component annotation.");
-    }
 }
