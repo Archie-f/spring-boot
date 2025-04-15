@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>example6</artifactId>
+    <artifactId>example06-post-construct-and-pre-destroy-annotations</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

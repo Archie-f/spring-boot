@@ -14,7 +14,7 @@
         <module>example03-different-names-to-name-bean</module>
         <module>example04-primary-annotation</module>
         <module>example05-component-annotation</module>
-        <module>example6</module>
+        <module>example06-post-construct-and-pre-destroy-annotations</module>
         <module>example7</module>
         <module>example8</module>
         <module>example9-wiring-beans-using-method-call</module>
