@@ -19,6 +19,7 @@
         <module>example8</module>
         <module>example9-wiring-beans-using-method-call</module>
         <module>example10-wiring-beans-using-method-parameters</module>
+        <module>example11-wiring-beans-using-autowired-annotation-on-class-fields</module>
     </modules>
 
     <properties>
