@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>example01-adding-new-beans-to-spring-context</module>
-        <module>example2</module>
+        <module>example02-no-unique-bean-definition-exception-demo</module>
         <module>example3</module>
         <module>example4</module>
         <module>example5</module>
