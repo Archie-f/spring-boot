@@ -17,7 +17,7 @@
         <module>example06-post-construct-and-pre-destroy-annotations</module>
         <module>example07-adding-beans-programmatically</module>
         <module>example08-bean-creation-using-xml-configuration</module>
-        <module>example9-wiring-beans-using-method-call</module>
+        <module>example09-wiring-beans-using-method-call</module>
         <module>example10-wiring-beans-using-method-parameters</module>
         <module>example11-wiring-beans-using-autowired-annotation-on-class-fields</module>
     </modules>
