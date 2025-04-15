@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>example7</artifactId>
+    <artifactId>example07-adding-beans-programmatically</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
