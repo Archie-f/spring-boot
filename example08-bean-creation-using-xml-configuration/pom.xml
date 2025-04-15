@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>example8</artifactId>
+    <artifactId>example08-bean-creation-using-xml-configuration</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
