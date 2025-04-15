@@ -18,6 +18,7 @@
         <module>example7</module>
         <module>example8</module>
         <module>example9-wiring-beans-using-method-call</module>
+        <module>example10-wiring-beans-using-method-parameters</module>
     </modules>
 
     <properties>
