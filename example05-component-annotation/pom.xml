@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>example5</artifactId>
+    <artifactId>example05-component-annotation</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
