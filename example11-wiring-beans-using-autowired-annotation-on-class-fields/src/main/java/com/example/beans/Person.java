@@ -8,12 +8,18 @@ public class Person {
 
     private String name = "Lucy";
 
-    /*
-    The @Autowired annotation marks on a field, constructor, Setter method
-    is used to auto-wire the beans that is ‘injecting beans'(Objects) at runtime
-    by Spring Dependency Injection mechanism
-    * */
     @Autowired
+    public Person(Vehicle vehicle) {
+        System.out.println("Person bean created by Spring");
+        this.vehicle = vehicle;
+    }
+
+    /*
+        The @Autowired annotation marks on a field, constructor, Setter method
+        is used to auto-wire the beans that is ‘injecting beans'(Objects) at runtime
+        by Spring Dependency Injection mechanism
+        * */
+    //@Autowired
     private Vehicle vehicle;
 
     public String getName() {
@@ -28,6 +34,7 @@ public class Person {
         return vehicle;
     }
 
+    //@Autowired
     public void setVehicle(Vehicle vehicle) {
         this.vehicle = vehicle;
     }
