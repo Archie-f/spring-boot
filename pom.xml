@@ -20,6 +20,7 @@
         <module>example09-wiring-beans-using-method-call</module>
         <module>example10-wiring-beans-using-method-parameters</module>
         <module>example11-wiring-beans-using-autowired-annotation-on-class-fields</module>
+        <module>example12-types-of-autowiring-and-qualifier-annotation</module>
     </modules>
 
     <properties>
